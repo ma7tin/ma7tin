@@ -19,7 +19,7 @@ Check out my technical deep dives and project breakdowns at [https://smiech.co.u
 ## 📫 Get in Touch
 
 - Email: martin@smiech.co.uk  
-- LinkedIn: [linkedin.com/in/yourname](#)  
+- LinkedIn: [(https://www.linkedin.com/in/martin-smiech)](#)  
 - Twitter/X: [@yourhandle](#)
 
 ---
