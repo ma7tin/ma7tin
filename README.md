@@ -14,7 +14,7 @@
 
 ## ✍️ Blog & Writings
 
-Check out my technical deep dives and project breakdowns at [smiech.co.uk](#)
+Check out my technical deep dives and project breakdowns at [https://smiech.co.uk](#)
 
 ## 📫 Get in Touch
 
@@ -25,18 +25,3 @@ Check out my technical deep dives and project breakdowns at [smiech.co.uk](#)
 ---
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
-
-<!--
-**ma7tin/ma7tin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
