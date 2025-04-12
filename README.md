@@ -18,8 +18,8 @@ Visit my website: [smiech.co.uk](https://smiech.co.uk)
 
 ## 📫 Get in Touch
 
-- Email:    martin@smiech.co.uk  
-- LinkedIn: https://www.linkedin.com/in/martin-smiech  
+- Email:      martin@smiech.co.uk  
+- LinkedIn:   https://www.linkedin.com/in/martin-smiech  
 
 ---
 
