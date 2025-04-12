@@ -14,7 +14,7 @@
 
 ## ✍️ Blog & Writings
 
-Check out my technical deep dives and project breakdowns at smiech.co.uk
+Check out my technical deep dives and project breakdowns at smiech.co.uk(#)
 
 ## 📫 Get in Touch
 
